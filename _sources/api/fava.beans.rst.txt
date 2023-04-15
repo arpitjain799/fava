@@ -1,0 +1,55 @@
+fava.beans
+==========
+
+.. automodule:: fava.beans
+
+fava.beans.abc
+--------------
+
+.. automodule:: fava.beans.abc
+
+fava.beans.account
+------------------
+
+.. automodule:: fava.beans.account
+
+fava.beans.create
+-----------------
+
+.. automodule:: fava.beans.create
+
+fava.beans.flags
+----------------
+
+.. automodule:: fava.beans.flags
+
+fava.beans.funcs
+----------------
+
+.. automodule:: fava.beans.funcs
+
+fava.beans.helpers
+------------------
+
+.. automodule:: fava.beans.helpers
+
+fava.beans.load
+---------------
+
+.. automodule:: fava.beans.load
+
+fava.beans.prices
+-----------------
+
+.. automodule:: fava.beans.prices
+
+fava.beans.str
+--------------
+
+.. automodule:: fava.beans.str
+
+fava.beans.types
+----------------
+
+.. automodule:: fava.beans.types
+
